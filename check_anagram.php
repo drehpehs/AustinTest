@@ -36,4 +36,9 @@ $anagram = 'tart';
 
 $result = checkAnagram($string, $anagram);
 
+/*
+time complexity: 
+assume the size of first string is m, the size of second string is n
+-> O((m - n) * (n + n log n))
+/*
 ?>
