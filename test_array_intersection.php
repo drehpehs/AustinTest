@@ -1,3 +1,5 @@
+<?php
+
 function solution($K, $L, $M, $N, $P, $Q, $R, $S) {
 
     $first = ($M - $K) * ($N - $L);
@@ -21,3 +23,5 @@ function solution($K, $L, $M, $N, $P, $Q, $R, $S) {
 
 $result = solution(0, 0, 10, 10, -5, -5, 3, 3);
 echo "result = $result\n";
+
+?>
