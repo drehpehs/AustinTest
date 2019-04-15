@@ -4,7 +4,6 @@
     "public": "false",
 	"name": "austin",
 	"age": "25",
-	"status": "sick",
     "mailing_list": "austin-group@test.com"
   }
 }
