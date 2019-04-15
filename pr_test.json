@@ -3,6 +3,7 @@
   "metadata": {
     "public": "false",
 	"name": "austin",
+	"age": "25",
     "mailing_list": "austin-group@test.com"
   }
 }
