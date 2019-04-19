@@ -1,9 +1,10 @@
 {
-  "project_name": "austin-hello",
-  "metadata": {
-    "public": "false",
-	"name": "austin",
-	"age": "25",
-    "mailing_list": "austin-group@test.com"
-  }
+	"action": "create",
+    "project_name": "austin-hello",
+    "metadata": {
+        "age": "25",
+        "public": "false",
+        "mailing_list": "austin-group@test.com",
+        "name": "austin"
+    }
 }
