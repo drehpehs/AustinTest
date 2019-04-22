@@ -5,7 +5,7 @@
         "public": "false",
         "enable_content_trust": "false",
         "prevent_vul": "false",
-        "severity": "low",
+        "severity": "medium",
         "auto_scan": "true"
     }
 }
