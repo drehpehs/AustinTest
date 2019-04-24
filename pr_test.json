@@ -1,6 +1,6 @@
 {
-    "action": "update",
-    "project_name": "austin-hellooo",
+    "action": "delete",
+    "project_name": "test-projectttt",
     "metadata": {
         "public": "false",
         "enable_content_trust": "false",
