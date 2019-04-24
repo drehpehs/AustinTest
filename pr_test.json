@@ -1,6 +1,6 @@
 {
     "action": "delete",
-    "project_name": "test-projectttt",
+    "project_name": "test-project",
     "metadata": {
         "public": "false",
         "enable_content_trust": "false",
