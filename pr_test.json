@@ -1,11 +1,4 @@
 {
     "action": "delete",
     "project_name": "austin-test-project",
-    "metadata": {
-        "public": "false",
-        "enable_content_trust": "false",
-        "prevent_vul": "false",
-        "severity": "medium",
-        "auto_scan": "true"
-    }
 }
