@@ -1,5 +1,5 @@
 {
-    "action": "create",
+    "action": "delete",
     "project_name": "austin-test-project",
     "metadata": {
         "public": "false",
