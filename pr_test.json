@@ -1,7 +1,11 @@
 {
-  "project_name": "austin-hello",
-  "metadata": {
-    "public": "false",
-    "mailing_list": "austin-group@test.com"
-  }
+    "action": "update",
+    "project_name": "austin-test-merger",
+    "metadata": {
+        "public": "true",
+        "enable_content_trust": "false",
+        "prevent_vul": "false",
+        "severity": "medium",
+        "auto_scan": "false"
+    }
 }
