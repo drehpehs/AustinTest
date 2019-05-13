@@ -2,7 +2,7 @@
     "action": "update",
     "project_name": "austin-test-merger",
     "metadata": {
-        "public": "false",
+        "public": "true",
         "enable_content_trust": "false",
         "prevent_vul": "false",
         "severity": "medium",
