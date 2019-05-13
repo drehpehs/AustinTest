@@ -6,6 +6,6 @@
         "enable_content_trust": "false",
         "prevent_vul": "false",
         "severity": "medium",
-        "auto_scan": "false"
+        "auto_scan": "true"
     }
 }
