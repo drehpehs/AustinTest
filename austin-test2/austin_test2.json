@@ -4,7 +4,7 @@
     "metadata": {
         "public": "false",
         "enable_content_trust": "false",
-        "prevent_vul": "false",
+        "prevent_vul": "true",
         "severity": "medium",
         "auto_scan": "true"
     }
