@@ -1,5 +1,5 @@
 {
-    "action": "create",
+    "action": "update",
     "project_name": "austin-test-merger",
     "metadata": {
         "public": "false",
