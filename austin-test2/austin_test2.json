@@ -2,7 +2,7 @@
     "action": "update",
     "project_name": "austin-test2",
     "metadata": {
-        "public": "false",
+        "public": "true",
         "enable_content_trust": "false",
         "prevent_vul": "true",
         "severity": "medium",
