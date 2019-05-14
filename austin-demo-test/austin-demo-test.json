@@ -1,0 +1,11 @@
+{
+    "action": "create",
+    "project_name": "austin-demo-test",
+    "metadata": {
+        "public": "false",
+        "enable_content_trust": "false",
+        "prevent_vul": "true",
+        "severity": "medium",
+        "auto_scan": "true"
+    }
+}
