@@ -1,8 +1,8 @@
 {
-    "action": "update",
-    "project_name": "austin-test2",
+    "action": "create",
+    "project_name": "austin-test3",
     "metadata": {
-        "public": "true",
+        "public": "false",
         "enable_content_trust": "false",
         "prevent_vul": "true",
         "severity": "medium",
